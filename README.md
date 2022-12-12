@@ -1,4 +1,3 @@
-# Text-Editor-in-Java
 
 # Text Editor
 
