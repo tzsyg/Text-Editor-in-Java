@@ -19,3 +19,6 @@
 - Copying the selected text (Ctrl + C)
 - Paste the copied text (Ctrl + V)
 - Paste the date and time according to the system (Ctrl + D)
+
+## Media
+![image](https://user-images.githubusercontent.com/98695047/207126771-b02dd498-f0b6-4151-aa01-d10501de02df.png)
